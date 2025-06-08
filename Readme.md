@@ -6,13 +6,12 @@ Language: Java
 UI Toolkit: AWT (Abstract Window Toolkit)<br>
 Database: Oracle SQL (via JDBC)<br>
 Architecture: Follows a modular structure with DAO (Data Access Object), model, and UI layers.<br><br>
-<p>
-🧠 features
-    Add, edit, delete, and view contacts
-    UI built with Java AWT
-    Oracle Database used to store contact details
-    Proper separation of concerns using DAO and model layers
-</p>
+
+    🧠 features
+        Add, edit, delete, and view contacts
+        UI built with Java AWT
+        Oracle Database used to store contact details
+        Proper separation of concerns using DAO and model layers
 
 User Interface: -
 <br>
