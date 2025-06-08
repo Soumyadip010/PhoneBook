@@ -16,12 +16,12 @@ Architecture: Follows a modular structure with DAO (Data Access Object), model, 
 
 User Interface: -
 <br>
-<p>
+
 ![PhoneBook Home Page](images/1.jpg)
 ![Add panel](images/2.jpg)
 ![Search](images/3.jpg)
 ![Viewing_Contact](images/4.jpg)
-</p>
+
 <p>
     🛠 Requirements
         JDK: 8 or higher
