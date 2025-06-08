@@ -4,31 +4,8 @@ Project Name: PhoneBook
 Language: Java
 
 UI Toolkit: AWT (Abstract Window Toolkit)
-
 Database: Oracle SQL (via JDBC)
-
 Architecture: Follows a modular structure with DAO (Data Access Object), model, and UI layers.
-
-📂 Project Structure
-
-PhoneBook/
-├── src/
-│   ├── main.java                       # Entry point of the application
-│   ├── DAO/
-│   │   ├── ContactService.java        # Handles all database operations
-│   │   └── DBConnection.java          # Handles Oracle DB connectivity
-│   ├── model/
-│   │   └── Contact.java               # POJO for contact information
-│   └── UI/
-│       ├── ContactApp.java            # Main UI frame
-│       ├── AddContactFrame.java      # Add new contact UI
-│       ├── EditContactFrame.java     # Edit contact UI
-│       ├── DeleteContactFrame.java   # Delete contact UI
-│       └── ShowContactFrame.java     # Display all contacts UI
-├── .idea/                             # IntelliJ IDEA config files
-├── out/                               # Compiled class files
-├── PhoneBook.iml                      # IntelliJ module file
-└── Structure.docx                     # Project documentation (not analyzed here)
 
 🧠 features
     Add, edit, delete, and view contacts
