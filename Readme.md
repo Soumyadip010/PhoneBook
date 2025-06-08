@@ -33,6 +33,7 @@ Database Schema:-
             NAME VARCHAR2(100),
             PHONE_NUMBER NUMBER(15),
             EMAIL VARCHAR2(100),
+            ADDRESS VARCHAR2(100)
             PRIMARY KEY (ID)
         );
         
