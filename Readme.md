@@ -13,12 +13,13 @@ Architecture: Follows a modular structure with DAO (Data Access Object), model, 
     Oracle Database used to store contact details
     Proper separation of concerns using DAO and model layers
 
-
 UI:-
-![PhoneBook Home Page](images/1.jpg)
-![Add panel](images/2.jpg)
-![Search](images/3.jpg)
-![Viewing_Contact](images/4.jpg)
+<center>
+    ![PhoneBook Home Page](images/1.jpg)
+    ![Add panel](images/2.jpg)
+    ![Search](images/3.jpg)
+    ![Viewing_Contact](images/4.jpg)
+</center>
 
 🛠 Requirements
     JDK: 8 or higher
