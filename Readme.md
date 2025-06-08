@@ -52,7 +52,7 @@ Clone or Download the Project
 
         java -cp out/production/PhoneBook main
 
-📌 Notes
-    Ensure Oracle Database is running before starting the app.
-    The application stores contact numbers as BigDecimal to handle very large values.
-    UI is minimal as it's based on AWT but functionally complete.
+📌 Notes:-<br>
+    Ensure Oracle Database is running before starting the app.<br>
+    The application stores contact numbers as BigDecimal to handle very large values.<br>
+    UI is minimal as it's based on AWT but functionally complete.<br>
